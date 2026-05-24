@@ -46,6 +46,9 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+## 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.vercel.app/udayawasthi69)](https://leetcode.com/u/udayawasthi69/)
+
 
 ## 🚀 Projects — Coming Soon
 
