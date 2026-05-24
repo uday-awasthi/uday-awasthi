@@ -46,8 +46,8 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=uday-awasthi&theme=light)](https://leetcode.com/u/uday-awasthi/)
+## 📊 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-uday--awasthi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/uday-awasthi/)
 
 
 
