@@ -49,6 +49,11 @@
 ## 📊 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-uday--awasthi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/uday-awasthi/)
 
+## 🔥 GitHub Stats
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uday-awasthi&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=uday-awasthi&theme=dark)](https://git.io/streak-stats)
+
 
 
 ## 🚀 Projects — Coming Soon
