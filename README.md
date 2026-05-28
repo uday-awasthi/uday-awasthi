@@ -55,8 +55,9 @@
 
 | Project | Status | Tools |
 |---|---|---|
-| Titanic Survival Prediction | 🔄 In Progress | Python, Pandas, Scikit-learn |
-| House Price Prediction | 📅 Planned | Python, Scikit-learn |
+| House Price Prediction |🔄 In Progress| Python, Scikit-learn |
+| Titanic Survival Prediction | 📅 Planned | Python, Pandas, Scikit-learn | 
+
 
 
 
