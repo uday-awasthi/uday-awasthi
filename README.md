@@ -46,6 +46,12 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+## Notebooks
+
+| Topic | Link |
+|---|---|
+| Matplotlib | [View on Kaggle](https://www.kaggle.com/code/udayawasthi/matplotlib-tutorial?scriptVersionId=323187270) |
+
 ## 📊 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-uday--awasthi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/uday-awasthi/)
 
