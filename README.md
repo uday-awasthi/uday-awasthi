@@ -52,13 +52,26 @@
 
 ## 📚 Notebooks
 
-| # | Topic | Link |
-|---|---|---|
-| 01 | Python Basics | [View on Kaggle](https://www.kaggle.com/code/udayawasthi/python-basics) |
-| 02 | Python List & Boolean Variables | [View on Kaggle](https://www.kaggle.com/code/udayawasthi/python-list-boolean-variables) |
+👉 [View All Notebooks on Kaggle](https://www.kaggle.com/work/collections/18371060)
 
 ## 🛠️ Tools Used
 - Python 3
+- Jupyter Notebook
+- Kaggle
+
+# ML Learning Journey 🚀
+
+> A collection of Machine Learning notebooks documenting my journey from EDA to ML algorithms.
+
+## 📚 Notebooks
+
+👉 [View All Notebooks on Kaggle](https://www.kaggle.com/work/collections/18371056)
+
+## 🛠️ Tools Used
+- Python 3
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 - Jupyter Notebook
 - Kaggle
 
