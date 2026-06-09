@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student | 4th Semester | India
 
-🔭 Currently working on my first Machine Learning project
+🔭 Currently working on: Titanic Survival Prediction & House Price Prediction
 
 🌱 Currently learning: Python | Pandas | NumPy | 
    Scikit-learn | SQL
@@ -87,21 +87,11 @@
 
 
 
-## 🚀 Projects — Coming Soon
-
-| Project | Status | Tools |
-|---|---|---|
-| House Price Prediction |🔄 In Progress| Python, Scikit-learn |
-| Titanic Survival Prediction | 📅 Planned | Python, Pandas, Scikit-learn | 
-
-
-
-
-
-
-
-
----
+## 🚀 Projects
+| Project | Description | Model | Accuracy | Status |
+|---|---|---|---|---|
+| [Titanic Survival Prediction](https://github.com/uday-awasthi/ML-Learning-Journey/tree/main/Projects/Titanic-Survival-Prediction) | Predict passenger survival | Logistic Regression | ~80% | ✅ Complete |
+| House Price Prediction | Predict house prices | Linear Regression | - | 🔄 In Progress |
 
 ⚡ **Currently open to internship opportunities in 
 Data Science and ML**
