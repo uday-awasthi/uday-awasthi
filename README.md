@@ -15,6 +15,9 @@
 
 ---
 
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=uday-awasthi&style=for-the-badge&color=8A2BE2)
+
 ## 🛠️ Skills I Am Building
 
 
