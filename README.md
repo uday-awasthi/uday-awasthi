@@ -18,36 +18,18 @@
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=uday-awasthi&style=for-the-badge&color=8A2BE2)
 
-## 🛠️ Skills I Am Building
-
-
-
+## 🛠️ Skills I Know
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-
-
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-
-
-
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
-
+## 🌱 Currently Learning
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-
-
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 # Python Practice 🐍
 
@@ -84,11 +66,17 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-uday--awasthi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/uday-awasthi/)
 
 ## 🔥 GitHub Stats
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uday-awasthi&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uday-awasthi&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uday-awasthi&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uday-awasthi&theme=tokyonight" width="48%" />
+</p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=uday-awasthi&theme=dark)](https://git.io/streak-stats)
 
-
+https://github-readme-stats.vercel.app/api?username=uday-awasthi&show_icons=true&theme=dark
 
 ## 🚀 Projects
 | Project | Description | Model | Accuracy | Status |
@@ -97,4 +85,3 @@
 | House Price Prediction | Predict house prices | Linear Regression | - | 🔄 In Progress |
 
 ⚡ **Currently open to internship opportunities in 
-Data Science and ML**
