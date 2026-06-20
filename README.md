@@ -1,6 +1,6 @@
 # Hi, I am Uday Awasthi 👋
 
-🎓 B.Tech CSE Student | 4th Semester | India
+🎓 B.Tech CSE Student | 5th Semester | India
 
 🔭 Currently working on: Titanic Survival Prediction & House Price Prediction
 
