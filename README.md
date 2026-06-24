@@ -126,6 +126,15 @@ Intro to Scikit-learn
 
 <div align="center">
 
+## 🌌 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/uday-awasthi/uday-awasthi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+----
+
+<div align="center">
+
 ## 🌌 3D Contribution Graph
 
 <img src="https://raw.githubusercontent.com/uday-awasthi/uday-awasthi/output/github-contribution-grid-snake-dark.svg" width="100%" />
