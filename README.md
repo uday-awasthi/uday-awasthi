@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Uday%20Awasthi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%26ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Uday%20Awasthi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/udayawasthi69">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A86CFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%7C+3rd+Year;Core+CS+%2B+Optional+AI%26ML;Data+Science+%26+ML+Enthusiast;Building+ML+Projects+from+Scratch;Titanic+Survival+Prediction+%E2%9C%85;Currently+Learning+LLMs+%26+NLP;Python+%7C+SQL+%7C+Deep+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A86CFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%7C+3rd+Year;Core+CS+with+Optional+AI%26ML;Data+Science+%26+ML+Enthusiast;Building+ML+Projects+from+Scratch;Titanic+Survival+Prediction+%E2%9C%85;Currently+Learning+LLMs+%26+NLP;Python+%7C+SQL+%7C+Deep+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -155,8 +155,8 @@ Scikit-learn & XGBoost
 
 | Project | Description | Model | Accuracy | Status |
 |:---:|:---:|:---:|:---:|:---:|
-| [Titanic Survival Prediction](https://github.com/uday-awasthi/ML-Learning-Journey/tree/main/Projects/Titanic-Survival-Prediction) | ML classification model | Logistic Regression | ~80% | ✅ Complete |
-| Air Quality Forecasting | ML regression + forecasting | XGBoost | - | ✅ Complete |
+| [Titanic Survival Prediction](https://github.com/uday-awasthi/ML-Learning-Journey/tree/main/Projects/Titanic-Survival-Prediction) | ML classification model to predict passenger survival | Logistic Regression | ~80% | ✅ Complete |
+| [Air Quality Forecasting](https://github.com/uday-awasthi/Air_Quality_Forecasting_using_ML) | ML regression and time-series forecasting for AQI | XGBoost | High Accuracy | ✅ Complete |
 
 </div>
 
@@ -166,9 +166,9 @@ Scikit-learn & XGBoost
 
 ## 🎓 Learning Roadmap
 
-**Phase 1:** ✅ Python & Statistics
-**Phase 2:** ✅ Classical ML & EDA
-**Phase 3:** 🔄 Deep Learning & NLP
+**Phase 1:** ✅ Python & Statistics  
+**Phase 2:** ✅ Classical ML & EDA  
+**Phase 3:** 🔄 Deep Learning & NLP  
 **Phase 4:** 📅 LLMs & Advanced AI/ML
 
 </div>
@@ -184,6 +184,7 @@ Scikit-learn & XGBoost
 I transform numbers into stories that drive decisions.
 
 Every dataset is a puzzle waiting to be solved."
+
 ---
 
 </div>
@@ -195,55 +196,9 @@ Every dataset is a puzzle waiting to be solved."
 ## 🌟 Featured Work
 
 ### 📈 From Raw Data to ML Models
+
 > I believe in the power of data-driven insights. Each project represents my journey of:
-> - **🔍 Exploring** — Understanding data deeply
-> - **🛠️ Engineering** — Creating meaningful features  
-> - **🤖 Modeling** — Building predictive systems
-> - **📊 Communicating** — Telling data stories
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect!
-
-Interested in **Data Science | Machine Learning | AI/ML** projects?
-<br/>
-Always open to **collaborations**, **internship opportunities**, and **meaningful conversations** about:
-- 🎯 Real-world ML problems
-- 📊 Data-driven solutions
-- 🚀 Building scalable ML systems
-- 🧠 Exploring emerging AI/ML technologies
-
-<br/>
-
-**Feel free to reach out!** I'd love to discuss how data can solve problems.
-
----
-
-### ⚡ Quick Facts
-
-- 🎓 B.Tech Computer Science (Core) | 3rd Year | Lucknow
-- 🎯 Optional Subject: AI & Machine Learning
-- 📍 Shri Ramswaroop Memorial University
-- 🏆 ESDP Program Participant — MSME, Government of India | MANIT Bhopal
-- 🔗 Active on Kaggle & GitHub | Consistent contributor
-- 🎯 Target: Data Scientist at leading tech companies
-- 💻 Open to internship opportunities in **Data Science & AI/ML**
-
----
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Work
-
-### 📈 From Raw Data to ML Models
-> I believe in the power of data-driven insights. Each project represents my journey of:
+>
 > - **🔍 Exploring** — Understanding data deeply
 > - **🛠️ Engineering** — Creating meaningful features  
 > - **🤖 Modeling** — Building predictive systems
@@ -260,6 +215,7 @@ Always open to **collaborations**, **internship opportunities**, and **meaningfu
 Interested in **Data Science | Machine Learning | AI/ML** projects?
 
 Always open to **collaborations**, **internship opportunities**, and **meaningful conversations** about:
+
 - 🎯 Real-world ML problems
 - 📊 Data-driven solutions
 - 🚀 Building scalable ML systems
@@ -267,12 +223,32 @@ Always open to **collaborations**, **internship opportunities**, and **meaningfu
 
 **Feel free to reach out!** I'd love to discuss how data can solve problems.
 
+---
+
+### ⚡ Quick Facts
+
+- 🎓 B.Tech Computer Science (Core) | 3rd Year | Lucknow
+- 🎯 Optional Subject: AI & Machine Learning
+- 📍 Shri Ramswaroop Memorial University
+- 🏆 ESDP Program Participant — MSME, Government of India | MANIT Bhopal
+- 🔗 Active on Kaggle & GitHub | Consistent contributor
+- 🎯 Target: Data Scientist at leading tech companies
+- 💻 Open to internship opportunities in **Data Science & AI/ML**
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayawasthi69)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/uday-awasthi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/udayawasthi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:officialuday2007@gmail.com)
+
 </div>
 
 ---
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Learning%2C%20Keep%20Growing%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Learning%2C%20Keep%20Growing%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
 ### ✨ Fun Fact
 
@@ -282,8 +258,4 @@ Always open to **collaborations**, **internship opportunities**, and **meaningfu
 
 ---
 
-<div align="center">
-
 **💬 "I don't just analyze data; I tell stories that inspire change."**
-
-</div>
