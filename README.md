@@ -50,49 +50,29 @@ I'm currently expanding into **Deep Learning and NLP**, building toward a strong
 - Open source contribution opportunities
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="300">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,anaconda&theme=dark" /><br/>
-<sub><b>Core Tools & Languages</b></sub>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 
-</td>
-<td align="center" width="400">
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1C1C1C?style=for-the-badge&logo=xgboost&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
+### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux&theme=dark" />
 
-**📊 Data Science**<br/><br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)<br/>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td align="center" width="400">
-
-**🤖 Machine Learning**<br/><br/>
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1C1C1C?style=flat-square&logo=xgboost&logoColor=white)
-
-</td>
-</tr>
-</table>
 </div>
-
 ---
 
 ## 🎯 Core Expertise
