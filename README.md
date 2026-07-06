@@ -73,6 +73,7 @@ I'm currently expanding into **Deep Learning and NLP**, building toward a strong
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux&theme=dark" />
 
 </div>
+
 ---
 
 ## 🎯 Core Expertise
@@ -171,8 +172,10 @@ Scikit-learn & XGBoost
 <img src="https://leetcard.jacoblin.cool/uday-awasthi?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 
 </div>
----
 
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
