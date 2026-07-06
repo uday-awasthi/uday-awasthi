@@ -10,8 +10,8 @@
 ![Specialization](https://img.shields.io/badge/Optional-AI_%26_ML-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Lucknow,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+## 🤝 Connect With Me
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/udayawasthi69">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
