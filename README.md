@@ -178,7 +178,7 @@ Scikit-learn & XGBoost
 ---
 
 ### 🧠 Deep-ML Stats
-[![Deep-ML Profile](https://www.deep-ml.com/api/og/profile?userId=wqFdZneCeaNtHd8GYZlztHgiC9l1)](https://www.deep-ml.com/profile/wqFdZneCeaNtHd8GYZlztHgiC9l1)
+[![Deep-ML Profile](https://www.deep-ml.com/api/og/profile?userId=wqFdZneCeaNtHd8GYZlztHgiC9l1&v=2)](https://www.deep-ml.com/profile/wqFdZneCeaNtHd8GYZlztHgiC9l1)
 
 ---
 
