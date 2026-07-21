@@ -182,19 +182,6 @@ Scikit-learn & XGBoost
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uday-awasthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A86CFF&icon_color=A86CFF" width="48%" />
-<img src="https://streak-stats.demolab.com?user=uday-awasthi&theme=tokyonight&hide_border=true&background=0D1117&ring=A86CFF&fire=A86CFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-awasthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A86CFF" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uday-awasthi&theme=tokyonight" width="48%" />
-
-</div>
-
----
 
 ## 🌌 Contribution Graph
 
