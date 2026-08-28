@@ -277,7 +277,7 @@ Always open to **collaborations**, **internship opportunities**, and **meaningfu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Learning%2C%20Keep%20Growing%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 
-### ✨ Fun Fact
+### ✨Fun Fact
 
 > Every problem has a solution hidden in the data. My mission is to find it and turn insights into action. 🎯
 
