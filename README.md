@@ -11,7 +11,7 @@
 ![Location](https://img.shields.io/badge/Location-Lucknow,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ## 🤝 Connect With Me
-<br/><br/>
+<br/>
 <a href="https://www.linkedin.com/in/udayawasthi69">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,8 +28,6 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uday-awasthi&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/uday-awasthi?style=for-the-badge&color=7B2FF7&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/uday-awasthi?style=for-the-badge&color=7B2FF7&labelColor=1a1a2e)
 
 </div>
 
@@ -39,7 +37,7 @@
 
 I'm a **B.Tech Computer Science undergraduate** (3rd Year, Core CS with an optional specialization in **AI & Machine Learning**) at **Shri Ramswaroop Memorial University, Lucknow**. My focus is on **data science, machine learning, and applied AI engineering** — turning raw datasets into models that actually explain something real.
 
-My workflow spans the full data science lifecycle: **exploratory data analysis → feature engineering → model building → evaluation → communication of results.** I care as much about understanding *why* a model works as I do about the accuracy number it produces.
+My workflow spans the full data science lifecycle: **exploratory data analysis → feature engineering → model building → evaluation → communication of results.**
 
 I'm currently expanding into **Deep Learning and NLP**, building toward a strong foundation in **LLMs and advanced AI/ML systems**, while staying consistently active on **Kaggle and GitHub**.
 
@@ -50,6 +48,7 @@ I'm currently expanding into **Deep Learning and NLP**, building toward a strong
 - Open source contribution opportunities
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -125,20 +124,6 @@ Scikit-learn & XGBoost
 
 ---
 
-## 🐍 Python Practice
-
-<div align="center">
-
-> Python notebooks for data science and machine learning foundations.
-
-[![View Notebooks](https://img.shields.io/badge/View_All_Notebooks-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/work/collections/18371060)
-
-**Tools:** Python 3 · Jupyter Notebook · Kaggle
-
-</div>
-
----
-
 ## 🚀 Projects
 
 <div align="center">
@@ -173,15 +158,7 @@ Scikit-learn & XGBoost
 
 </div>
 
-</div>
-
 ---
-
-### 🧠 Deep-ML Stats
-[![Deep-ML Profile](https://www.deep-ml.com/api/og/profile?userId=wqFdZneCeaNtHd8GYZlztHgiC9l1&v=2)](https://www.deep-ml.com/profile/wqFdZneCeaNtHd8GYZlztHgiC9l1)
-
----
-
 
 ## 📊 GitHub Analytics
 
@@ -197,7 +174,6 @@ Scikit-learn & XGBoost
 
 ---
 
-
 ## 🌌 Contribution Graph
 
 <div align="center">
@@ -205,7 +181,6 @@ Scikit-learn & XGBoost
 <img src="https://raw.githubusercontent.com/uday-awasthi/uday-awasthi/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
 
 ---
 
@@ -216,6 +191,8 @@ Scikit-learn & XGBoost
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday-awasthi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A86CFF&line=A86CFF&point=ffffff" width="100%" />
 
 </div>
+
+---
 
 ## 💡 Philosophy
 
@@ -234,15 +211,7 @@ Every dataset is a puzzle waiting to be solved."
 <div align="center">
 
 Interested in **Data Science | Machine Learning | AI/ML** projects?
-
-Always open to **collaborations**, **internship opportunities**, and **meaningful conversations** about:
-
-- 🎯 Real-world ML problems
-- 📊 Data-driven solutions
-- 🚀 Building scalable ML systems
-- 🧠 Exploring emerging AI/ML technologies
-
-**Feel free to reach out!** I'd love to discuss how data can solve problems.
+Always open to **collaborations**, **internship opportunities**, and **meaningful conversations**.
 
 </div>
 
@@ -254,36 +223,13 @@ Always open to **collaborations**, **internship opportunities**, and **meaningfu
 - 🎯 Optional Subject: AI & Machine Learning
 - 📍 Shri Ramswaroop Memorial University
 - 🏆 ESDP Program Participant — MSME, Government of India | MANIT Bhopal
-- 🔗 Active on Kaggle & GitHub | Consistent contributor
-- 🎯 Target: Data Scientist at leading tech companies
 - 💻 Open to internship opportunities in **Data Science & AI/ML**
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayawasthi69)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/uday-awasthi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/udayawasthi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:officialuday2007@gmail.com)
-
-</div>
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Learning%2C%20Keep%20Growing%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=twinkling"/>
-
-### ✨Fun Fact
-
-> Every problem has a solution hidden in the data. My mission is to find it and turn insights into action. 🎯
-
-**Crafted with passion by Uday | Last Updated: July 2026**
-
----
 
 **💬 "I don't just analyze data; I tell stories that inspire change."**
 
